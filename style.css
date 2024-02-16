@@ -1,0 +1,6 @@
+body{
+    background-image:radial-gradient(red,orange);
+    background-size:cover;
+    background-repeat:no-repeat;
+    text-align:center
+}
